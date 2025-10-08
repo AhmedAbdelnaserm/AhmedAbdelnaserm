@@ -15,7 +15,7 @@ However, I’ve included high-level overviews and technologies used to demonstra
 
 ### 🎓 **Intrn**
 **Role:** Backend Developer  
-**Tech Stack:** ASP.NET Core 8, Entity Framework Core, SQL Server, AutoMapper, Swagger, JWT Authentication, Dependency Injection  
+**Tech Stack:** ASP.NET Core 6, Entity Framework Core, SQL Server, AutoMapper, Swagger, JWT Authentication, Dependency Injection  
 
 **Description:**  
 A professional platform designed to connect undergraduate students, fresh graduates (0–5 years experience), and employers specifically for internship opportunities.  
@@ -32,7 +32,7 @@ Focused on building APIs to manage users, job listings, and applications efficie
 
 ### 🩺 **Prevadu**
 **Role:** Backend Developer  
-**Tech Stack:** ASP.NET Core 8, EF Core, PostgreSQL, AutoMapper, Docker, Swagger, JWT Authentication, Dependency Injection  
+**Tech Stack:** ASP.NET Core 8, EF Core, SQL Server, AutoMapper, Swagger, JWT Authentication, Dependency Injection  
 
 **Description:**  
 Prevadu helps individuals take charge of their health by combining advanced medical screening with personalized care.  
@@ -68,8 +68,8 @@ It provides event scheduling, participant management, and score tracking.
 
 - **Languages:** C#, SQL  
 - **Frameworks:** ASP.NET Core, Entity Framework Core  
-- **Databases:** SQL Server, PostgreSQL  
-- **Tools:** Docker, Git, Postman, Swagger, AutoMapper  
+- **Databases:** SQL Server  
+- **Tools:** Git, Postman, Swagger, AutoMapper  
 - **Concepts:** SOLID Principles, Clean Architecture, RESTful APIs, Dependency Injection, DTOs, Authentication (JWT), Unit Testing
 
 ---
@@ -100,7 +100,6 @@ Program.cs
 ## 📫 Contact
 
 - **LinkedIn:** [Ahmed Abdelnaser Mohammed](https://www.linkedin.com/in/ahmed-abdelnaser-409bb7243)  
-- **GitHub:** [AhmedAbdelnaserm](https://github.com/AhmedAbdelnaserm)  
 - **Email:** aahmedabdelnaser2000@gmail.com  
 
 ---
