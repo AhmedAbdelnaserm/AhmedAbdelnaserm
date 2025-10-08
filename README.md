@@ -5,6 +5,14 @@ I focus on applying **SOLID principles**, clean architecture, and efficient desi
 
 ---
 
+## 📄 Online Resume
+
+You can view my online résumé here:  
+[Ahmed Muhammed – Back-End .NET Developer](https://flowcv.com/resume/kbt1jtistk)
+Includes detailed experience, skills, education, and certificates.
+
+---
+
 ## 🚀 Professional Projects (Confidential)
 
 Below are summaries of several professional projects I've worked on.  
